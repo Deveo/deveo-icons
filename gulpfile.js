@@ -11,7 +11,8 @@ gulp.task('iconfont', function() {
       fontName: 'deveo-icons',
       formats: ['ttf', 'eot', 'svg', 'woff'],
       descent: 200,
-      normalize: true
+      normalize: true,
+      prependUnicode: true
     }))
     .on('glyphs', function(glyphs/*, options */) {
       var options = {
