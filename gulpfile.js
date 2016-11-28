@@ -20,7 +20,7 @@ gulp.task('iconfont', function() {
         fontName: 'deveo-icons',
         fontPath: '../fonts/',
         className: 'deveo-icon',
-        version: '1.0.1'
+        version: '1.1.0'
       };
 
       gulp.src('templates/deveo-icons.css')
