@@ -294,3 +294,7 @@
 .deveo-icon-wiki:before { content: '\EAFF' }
 .deveo-icon-repository-edit:before { content: '\EB00' }
 .deveo-icon-user-edit:before { content: '\EB01' }
+.deveo-icon-evt_add_fork:before { content: '\EAF4' }
+.deveo-icon-evt_remove_fork:before { content: '\EB02' }
+.deveo-icon-fork:before { content: '\EB03' }
+.deveo-icon-unwatch:before { content: '\EB04' }
