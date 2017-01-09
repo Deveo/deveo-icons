@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'deveo-icons';
-  src: url('../fonts/deveo-icons.eot?v=1.1.0');
-  src: url('../fonts/deveo-icons.eot?#iefix&v=1.1.0') format('eot'),
-    url('../fonts/deveo-icons.woff?v=1.1.0') format('woff'),
-    url('../fonts/deveo-icons.ttf?v=1.1.0') format('truetype'),
-    url('../fonts/deveo-icons.svg?v=1.1.0#deveo-icons') format('svg');
+  src: url('../fonts/deveo-icons.eot?v=1.2.0');
+  src: url('../fonts/deveo-icons.eot?#iefix&v=1.2.0') format('eot'),
+    url('../fonts/deveo-icons.woff?v=1.2.0') format('woff'),
+    url('../fonts/deveo-icons.ttf?v=1.2.0') format('truetype'),
+    url('../fonts/deveo-icons.svg?v=1.2.0#deveo-icons') format('svg');
 }
 
 .deveo-icon {
@@ -281,6 +281,7 @@
 .deveo-icon-user-collab-outline:before { content: '\EAF1' }
 .deveo-icon-user-collab:before { content: '\EAF2' }
 .deveo-icon-user-dashed:before { content: '\EAF3' }
+.deveo-icon-evt_add_fork:before { content: '\EAF4' }
 .deveo-icon-user-outline:before { content: '\EAF5' }
 .deveo-icon-user-profile:before { content: '\EAF6' }
 .deveo-icon-user:before { content: '\EAF7' }
@@ -294,7 +295,6 @@
 .deveo-icon-wiki:before { content: '\EAFF' }
 .deveo-icon-repository-edit:before { content: '\EB00' }
 .deveo-icon-user-edit:before { content: '\EB01' }
-.deveo-icon-evt_add_fork:before { content: '\EAF4' }
 .deveo-icon-evt_remove_fork:before { content: '\EB02' }
 .deveo-icon-fork:before { content: '\EB03' }
 .deveo-icon-unwatch:before { content: '\EB04' }
