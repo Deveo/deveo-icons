@@ -298,3 +298,9 @@
 .deveo-icon-evt_remove_fork:before { content: '\EB02' }
 .deveo-icon-fork:before { content: '\EB03' }
 .deveo-icon-unwatch:before { content: '\EB04' }
+.deveo-icon-document-copy:before { content: '\EB05' }
+.deveo-icon-document-move:before { content: '\EB06' }
+.deveo-icon-evt_add_directory:before { content: '\EB07' }
+.deveo-icon-evt_add_document:before { content: '\EB08' }
+.deveo-icon-maven:before { content: '\EB09' }
+.deveo-icon-smiley:before { content: '\EB0A' }
